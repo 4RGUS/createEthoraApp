@@ -1,6 +1,6 @@
 {
   "name": "create-ethora-app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Cli to create a new app based on Ethora engine",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,7 @@
   "dependencies": {
     "child_process": "^1.0.2",
     "commander": "^10.0.0",
+    "create-ethora-app": "^1.0.1",
     "fs": "^0.0.1-security",
     "inquirer": "^9.1.4",
     "path": "^0.12.7",
@@ -23,7 +24,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/4RGUS/ethoraboilerplate"
+    "url": "https://github.com/4RGUS/createEthoraApp"
   },
   "keywords": [
     "ethora",
